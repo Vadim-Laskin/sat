@@ -1,0 +1,6 @@
+{
+    "client": 1,
+    "game": 1,
+    "launcher": "https://edgar-zakaz.ga/baltiucDef/launcher.apk",
+    "update": "https://edgar-zakaz.ga/baltiucDef/cache.zip"
+}
