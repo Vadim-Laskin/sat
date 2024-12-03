@@ -1,7 +1,7 @@
 {  
   "URL_GAME_FILES": "https://www.dropbox.com/scl/fi/qz81piy3wir6ynpcxvoud/cashe.zip?rlkey=djqm9i2o70wwdl6wks7d4ndzq&st=c7pcy0cf&dl=1",  
-  "URL_CLIENT": "https://www.dropbox.com/scl/fi/vz9xujq51ha6t7b89yoor/strnrp0.0.1.apk?rlkey=6itl5w4daim5t54hz2gvy9p34&dl=1",  
-  "client": 1,  
+  "URL_CLIENT": "http://strnrp.vkweb.su/download/strnrp.apk",  
+  "client": 2,  
   "game": 1,  
   "update": "2"
 }
